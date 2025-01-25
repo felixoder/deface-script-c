@@ -18,3 +18,4 @@ The full code is written in C, and it targets websites with a vulnerability in t
 
 - **Ethical Usage**: Only use this tool on websites you own or have explicit permission to test.
 - **Educational Purpose**: This repository is for learning and exploring security vulnerabilities in a controlled, ethical environment.
+
