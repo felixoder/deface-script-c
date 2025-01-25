@@ -139,7 +139,7 @@ void upload_script(const char *script, const char *target_file) {
 int main() {
     clear_screen();
     printf("///////////////////////////////////////////////////////////////\n");
-    printf("// WebDAV Vulnerability Exploit - Upload Script to Targets   //\n");
+    printf("// WebDAV Vulnerability Exploit - Upload Script to Targets: Hack with FelixHack   //\n");
     printf("///////////////////////////////////////////////////////////////\n\n");
 
     char script[256], target_file[256] = "targets.txt";
